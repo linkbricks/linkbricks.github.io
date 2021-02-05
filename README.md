@@ -27,8 +27,8 @@ function() {
 
 **Bold** and _Italic_ and `Code` text
 
-[Linkbricks](https://www.linkbricks.com) and ![Image](src)
-```
+ ```
+[Linkbricks](https://www.linkbricks.com) 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
