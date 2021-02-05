@@ -15,6 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+function() {
+
+}
+
 - Bulleted
 - List
 
@@ -23,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Linkbricks](https://www.linkbricks.com) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
